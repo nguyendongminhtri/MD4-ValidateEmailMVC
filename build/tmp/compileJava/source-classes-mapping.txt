@@ -1,0 +1,6 @@
+AppConfig.java
+ AppConfig
+WebConfig.java
+ WebConfig
+controller/ValidateEmailController.java
+ controller.ValidateEmailController
